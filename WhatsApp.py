@@ -6,7 +6,7 @@ HR  = current.strftime('%H')
 Min = current.strftime('%M')
 TimeHR  = int(HR)
 TimeMin = int(Min)
-TimeMin +=1
+TimeMin +=2
 number = input("Enter the number with your country code:")
  
 
